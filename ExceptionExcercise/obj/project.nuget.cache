@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ru8FMgvucE0S4jwWVMlbffh6nJ1XAaVbx+xcsFuzJse0tGgWxui8l/dzeFIKz7bp3B1On4FNYzzKL2+2/dLyCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\55149\\Desktop\\Work Space - Visual Studio\\ExceptionExcercise\\ExceptionExcercise\\ExceptionExcercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\55149\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\55149\Desktop\Work Space - Visual Studio\ExceptionExcercise\ExceptionExcercise\bin\Debug\netcoreapp3.1\ExceptionExcercise.exe
+C:\Users\55149\Desktop\Work Space - Visual Studio\ExceptionExcercise\ExceptionExcercise\bin\Debug\netcoreapp3.1\ExceptionExcercise.deps.json
+C:\Users\55149\Desktop\Work Space - Visual Studio\ExceptionExcercise\ExceptionExcercise\bin\Debug\netcoreapp3.1\ExceptionExcercise.runtimeconfig.json
+C:\Users\55149\Desktop\Work Space - Visual Studio\ExceptionExcercise\ExceptionExcercise\bin\Debug\netcoreapp3.1\ExceptionExcercise.runtimeconfig.dev.json
+C:\Users\55149\Desktop\Work Space - Visual Studio\ExceptionExcercise\ExceptionExcercise\bin\Debug\netcoreapp3.1\ExceptionExcercise.dll
+C:\Users\55149\Desktop\Work Space - Visual Studio\ExceptionExcercise\ExceptionExcercise\bin\Debug\netcoreapp3.1\ExceptionExcercise.pdb
+C:\Users\55149\Desktop\Work Space - Visual Studio\ExceptionExcercise\ExceptionExcercise\obj\Debug\netcoreapp3.1\ExceptionExcercise.csprojAssemblyReference.cache
+C:\Users\55149\Desktop\Work Space - Visual Studio\ExceptionExcercise\ExceptionExcercise\obj\Debug\netcoreapp3.1\ExceptionExcercise.AssemblyInfoInputs.cache
+C:\Users\55149\Desktop\Work Space - Visual Studio\ExceptionExcercise\ExceptionExcercise\obj\Debug\netcoreapp3.1\ExceptionExcercise.AssemblyInfo.cs
+C:\Users\55149\Desktop\Work Space - Visual Studio\ExceptionExcercise\ExceptionExcercise\obj\Debug\netcoreapp3.1\ExceptionExcercise.csproj.CoreCompileInputs.cache
+C:\Users\55149\Desktop\Work Space - Visual Studio\ExceptionExcercise\ExceptionExcercise\obj\Debug\netcoreapp3.1\ExceptionExcercise.dll
+C:\Users\55149\Desktop\Work Space - Visual Studio\ExceptionExcercise\ExceptionExcercise\obj\Debug\netcoreapp3.1\ExceptionExcercise.pdb
+C:\Users\55149\Desktop\Work Space - Visual Studio\ExceptionExcercise\ExceptionExcercise\obj\Debug\netcoreapp3.1\ExceptionExcercise.genruntimeconfig.cache
